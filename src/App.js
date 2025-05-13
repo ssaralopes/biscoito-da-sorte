@@ -42,21 +42,21 @@ const frases = [
 
 function App() {
   const [frase, setFrase] = useState(null);
-  const [imagem, setImagem] = useState("/img/biscoito.png");
+  const [imagem, setImagem] = useState(`${process.env.PUBLIC_URL}/img/biscoito.png`);
   const [biscoitoQuebrado, setBiscoitoQuebrado] = useState(false); // novo estado
 
   const quebrarBiscoito = () => {
     if (!biscoitoQuebrado) {
       const index = Math.floor(Math.random() * frases.length);
       setFrase(frases[index]);
-      setImagem("/img/biscoitoQuebrado.png");
+      setImagem(`${process.env.PUBLIC_URL}/img/biscoitoQuebrado.png`);
       setBiscoitoQuebrado(true); // impede sorteios subsequentes
     }
   };
 
   const reiniciarBiscoito = () => {
     setFrase(null);
-    setImagem("/img/biscoito.png");
+    setImagem(`${process.env.PUBLIC_URL}/img/biscoito.png`);
     setBiscoitoQuebrado(false); // libera novamente o sorteio
   };
 
@@ -82,3 +82,4 @@ function App() {
 }
 
 export default App;
+ 
