@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ssaralopes/biscoito-da-sorte.git/static/css/main.010e2e9c.css",
+    "main.js": "/ssaralopes/biscoito-da-sorte.git/static/js/main.cfcdd376.js",
+    "static/js/453.43c4a293.chunk.js": "/ssaralopes/biscoito-da-sorte.git/static/js/453.43c4a293.chunk.js",
+    "index.html": "/ssaralopes/biscoito-da-sorte.git/index.html",
+    "main.010e2e9c.css.map": "/ssaralopes/biscoito-da-sorte.git/static/css/main.010e2e9c.css.map",
+    "main.cfcdd376.js.map": "/ssaralopes/biscoito-da-sorte.git/static/js/main.cfcdd376.js.map",
+    "453.43c4a293.chunk.js.map": "/ssaralopes/biscoito-da-sorte.git/static/js/453.43c4a293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010e2e9c.css",
+    "static/js/main.cfcdd376.js"
+  ]
+}
