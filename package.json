@@ -2,7 +2,7 @@
   "name": "biscoito-da-sorte",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ssaralopes/biscoito-da-sorte.git",
+  "homepage": "https://ssaralopes.github.io/biscoito-da-sorte",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
