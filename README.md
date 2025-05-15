@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# 🥠 Biscoito da Sorte Literário
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Um projeto React simples e divertido que sorteia frases literárias de alguns dos meus autores prediletos, junto com a imagem do biscoito da sorte — e ainda muda a imagem quando o biscoito é “quebrado”.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## ✨ Veja no ar!
 
-### `npm start`
+[![Veja no GitHub Pages](https://img.shields.io/badge/Veja-no%20ar-brightgreen?style=for-the-badge&logo=github)](https://ssaralopes.github.io/biscoito-da-sorte/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Sobre
 
-### `npm test`
+Embora eu não seja exatamente fã de web design — sinceridade às vezes é fundamental, pessoal — encontrei nesse projeto uma forma de unir minha paixão por literatura com os aprendizados do desenvolvimento em React.
+A ideia era simples, mas cheia de carinho: criar um pequeno aplicativo capaz de entregar as frases que mais gosto com o clique de um botão e um biscoito da sorte.
+Durante o processo, explorei conceitos fundamentais do React, como estados (useState), manipulação de eventos e controle de renderização. Além disso, exercitei boas práticas de organização de componentes e estilização, buscando um visual aconchegante e simples.
+Este projeto foi também um espaço de criatividade. Escolhi cuidadosamente autores que admiro — como Clarice Lispector, Fernando Pessoa, Rupi Kaur e, principalmente, Charles Bukowski.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Funcionalidades
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Sorteio de frases literárias ao “quebrar” o biscoito.
+- Imagem do biscoito muda entre inteiro e quebrado.
+- Só permite sortear uma frase por “biscoito” quebrado, até você reiniciar.
+- Design simples e responsivo.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tecnologias
 
-### `npm run eject`
+- React
+- CSS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Como usar
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone o repositório:
+git clone https://github.com/ssaralopes/biscoito-da-sorte.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Entre na pasta do projeto:
+cd biscoito-da-sorte
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. Instale as dependências:
+npm install
 
-## Learn More
+4. Rode localmente:
+npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. Abra no navegador `http://localhost:3000`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Licença
 
-### Code Splitting
+Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Desenvolvido por Sara Lopes.
