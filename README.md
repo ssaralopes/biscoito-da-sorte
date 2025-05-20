@@ -6,7 +6,7 @@ Um projeto React simples e divertido que sorteia frases literárias de alguns do
 
 ## ✨ Veja no ar!
 
-[![GITHUB](https://img.shields.io/badge/VEJA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssaralopes)
 [![NO AR](https://img.shields.io/badge/NO%20AR-00C851?style=for-the-badge&logoColor=white)](https://ssaralopes.github.io/biscoito-da-sorte/)
 
 
