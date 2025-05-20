@@ -45,21 +45,21 @@ Esse projeto foi também um espaço de criatividade. Escolhi cuidadosamente auto
 - React
 - CSS
 
-## Como usar
-
-1. Clone o repositório:
+## Instalação
+Para rodar localmente:
+```bash
+# Clone o repositório
 git clone https://github.com/ssaralopes/biscoito-da-sorte.git
 
-2. Entre na pasta do projeto:
-cd biscoito-da-sorte
+# Entre na pasta do projeto
+cd playlist
 
-3. Instale as dependências:
+# Instale as dependências
 npm install
 
-4. Rode localmente:
+# Rode localmente
 npm start
-
-5. Abra no navegador `http://localhost:3000`
+```
 
 ## Licença
 
