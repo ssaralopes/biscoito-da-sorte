@@ -20,11 +20,11 @@ A ideia era simples, mas cheia de carinho: criar um pequeno aplicativo capaz de 
 
 Durante o processo, explorei conceitos fundamentais do React, como:
 
-🎯 useState
+- 🎯 useState
 
-🎯 manipulação de eventos
+- 🎯 manipulação de eventos
 
-🎯 controle de renderização
+- 🎯 controle de renderização
 
 Além disso, exercitei boas práticas de organização de componentes e estilização 🎨, buscando um visual aconchegante e minimalista.
 
